@@ -17,18 +17,11 @@ SmartHarvest comprises three main applications:
 3. **Plant Disease Prediction**
    - Users can upload an image of a diseased plant leaf. The application identifies the disease and provides information on its cause and prevention.
 
-## Data Sources 📊
+## Data Sources from Kaggle 📊
 
 - **Crop Recommendation Dataset** (custom-built)
 - **Fertilizer Suggestion Dataset** (custom-built)
 - **Disease Detection Dataset**
-
-## Notebooks 📓
-
-The corresponding code is available on Kaggle Notebooks:
-
-- [Crop Recommendation](#)
-- [Disease Detection](#)
 
 ## How to Use 💻
 
