@@ -39,16 +39,6 @@ The corresponding code is available on Kaggle Notebooks:
 - [Crop Recommendation](#)
 - [Disease Detection](#)
 
-## Built With 🛠️
-
-- [Heroku](https://heroku.com/) for deployment
-- [Git](https://git-scm.com/) for version control
-- [Anaconda](https://www.anaconda.com/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) for environment management
-
-## Deployment 🚀
-
-The website is deployed on Heroku and can be accessed [here](#). Note: The website might take a minute to load as the server could be in hibernate state.
-
 ## How to Use 💻
 
 ### Crop Recommendation System
