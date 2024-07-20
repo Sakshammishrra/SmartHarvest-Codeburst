@@ -1,5 +1,3 @@
-Here's the updated README file with the demo video link included:
-
 ---
 
 # SmartHarvest
@@ -63,36 +61,9 @@ Currently, the system supports limited crop types.
 ### Prerequisites
 - Ensure you have Git and Anaconda or Miniconda installed.
 
-### Steps
-1. Clone the project:
-    ```sh
-    git clone https://github.com/Gladiator07/Harvestify.git
-    ```
-
-2. Create and activate the conda environment:
-    ```sh
-    conda create -n harvestify python=3.6.12
-    conda activate harvestify
-    ```
-
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-4. Run the application:
-    ```sh
-    python app.py
-    ```
-
-5. Open the provided localhost URL in your web browser.
 
 ### Full Demo Video
 [SmartHarvest Demo Video](https://drive.google.com/file/d/1ZzdHS09TXE8UBsswoW0S_PjCNmbtYJ_K/view?usp=drive_link)
-
-## Contribute 👨‍💻
-
-Read [CONTRIBUTING.md](#) for details on our code of conduct and how to submit pull requests.
 
 ## Usage ⚙️
 
