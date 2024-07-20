@@ -68,10 +68,6 @@ Currently, the system supports limited crop types.
     ```sh
     git clone https://github.com/Gladiator07/Harvestify.git
     ```
-    For the updated deployment code:
-    ```sh
-    git clone -b deploy https://github.com/Gladiator07/Harvestify.git
-    ```
 
 2. Create and activate the conda environment:
     ```sh
