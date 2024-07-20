@@ -4,13 +4,6 @@
 
 Welcome to **SmartHarvest**! This project is part of our participation in the AI/ML Healthcare Hackathon. It's a proof-of-concept (POC) that showcases how machine learning (ML) and deep learning (DL) can be leveraged in precision farming. 
 
-**DISCLAIMER ⚠️**  
-This project is for demonstration purposes only. The data used comes with no guarantee, and we do not recommend using it for actual farming decisions. The creator is not responsible for any outcomes from such use. The project highlights the potential of ML/DL in precision farming when developed on a larger scale with authentic and verified data.
-
-## Motivation 💪
-
-Agriculture is a critical sector for the economic growth of many countries, including India. With a significant portion of the population relying on agriculture for their livelihood, integrating advanced technologies like ML and DL can help farmers improve and maximize their yield.
-
 ## Applications
 
 SmartHarvest comprises three main applications:
