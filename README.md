@@ -40,12 +40,6 @@ SmartHarvest comprises three main applications:
 
 Currently, the system supports limited crop types. 
 
-## Running Locally 🛠️
-
-### Prerequisites
-- Ensure you have Git and Anaconda or Miniconda installed.
-
-
 ### Full Demo Video
 [SmartHarvest Demo Video](https://drive.google.com/file/d/1ZzdHS09TXE8UBsswoW0S_PjCNmbtYJ_K/view?usp=drive_link)
 
