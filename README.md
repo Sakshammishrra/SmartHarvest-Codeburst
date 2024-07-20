@@ -23,8 +23,6 @@ SmartHarvest comprises three main applications:
 - **Fertilizer Suggestion Dataset** (custom-built)
 - **Disease Detection Dataset**
 
-## How to Use 💻
-
 ### Crop Recommendation System
 - Enter the nutrient values of your soil, state, and city.
 - Ensure N-P-K values are the ratios between them.
